@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Emperordle</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+
+        <div id="aboutPopup" class="popupBackground">
+            <div class="popupContainer">
+                <per>
+                    (August 3rd, 2026) version 1.0: basic app functionality implemented.
+                </per>
+            </div>
+        </div>
+        <div id="settingsPopup" class="popupBackground">
+            <div class="popupContainer">
+                no budget for settings yet lmao
+            </div>
+        </div>
+
+        <div id="winPopup" class="popupBackground">
+            <div class="popupContainer">
+                You win!!!
+            </div>
+        </div>
+        <div id="losePopup" class="popupBackground">
+            <div class="popupContainer">
+                You lose 🙁 (used 6 guesses)
+            </div>
+        </div>
+
+        <div id="topBar">
+            <button id="aboutButton" class="button">About</button>
+            <h1>Emperordle</h1>
+            <button id="settingsButton" class="button">Settings</button>
+        </div>
+
+        <span>made by rp</span> <br>
+
+        <div>
+            <input type="text" id="guessBox" placeholder="guess an emperor">
+            <div id="guessOptions"></div>
+        </div>
+
+        <div id="resultsContainer">
+            <div class="resultRow">
+                <div class="resultCell">Emperor</div>
+                <div class="resultCell">Groups</div>
+                <div class="resultCell">Death Year</div>
+                <div class="resultCell">Years Ruled</div>
+                <div class="resultCell">Birthplace</div>
+                <div class="resultCell">Age upon Ascension</div>
+            </div>
+            <hr>
+        </div>
+        
+        <script src="game.js"></script>
+
+    </body>
+
+</html>

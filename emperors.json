@@ -1,0 +1,70 @@
+[
+
+    {"name": "", "groups": [""], "deathYear": 0, "yearsRuled": 0, "birthplace": "", "ageAscension": 0},
+
+    {"name": "Augustus", "groups": ["Julio-Claudians"], "deathYear": 14, "yearsRuled": 41, "birthplace": "Rome", "ageAscension": 35},
+    {"name": "Tiberius", "groups": ["Julio-Claudians"], "deathYear": 37, "yearsRuled": 23, "birthplace": "Rome", "ageAscension": 55},
+    {"name": "Caligula", "groups": ["Julio-Claudians"], "deathYear": 41, "yearsRuled": 4, "birthplace": "Antium", "ageAscension": 24},
+    {"name": "Claudius", "groups": ["Julio-Claudians"], "deathYear": 54, "yearsRuled": 14, "birthplace": "Lugdunum", "ageAscension": 50},
+    {"name": "Nero", "groups": ["Julio-Claudians"], "deathYear": 68, "yearsRuled": 14, "birthplace": "Antium", "ageAscension": 16},
+
+    {"name": "Galba", "groups": ["Year of Four Emperors"], "deathYear": 69, "yearsRuled": 1, "birthplace": "Terracina", "ageAscension": 70},
+    {"name": "Otho", "groups": ["Year of Four Emperors"], "deathYear": 69, "yearsRuled": 0, "birthplace": "Ferentium", "ageAscension": 36},
+    {"name": "Vitellius", "groups": ["Year of Four Emperors"], "deathYear": 69, "yearsRuled": 1, "birthplace": "Nuceria Alfaterna", "ageAscension": 54},
+
+    {"name": "Vespasian", "groups": ["Year of Four Emperors", "Flavians"], "deathYear": 79, "yearsRuled": 10, "birthplace": "Falacrinum", "ageAscension": 60},
+    {"name": "Titus", "groups": ["Flavians"], "deathYear": 81, "yearsRuled": 2, "birthplace": "Rome", "ageAscension": 39},
+    {"name": "Domitian", "groups": ["Flavians"], "deathYear": 96, "yearsRuled": 15, "birthplace": "Rome", "ageAscension": 29},
+
+    {"name": "Nerva", "groups": ["Nerva-Antonines", "Five Good Emperors"], "deathYear": 98, "yearsRuled": 1, "birthplace": "Narnia", "ageAscension": 65},
+    {"name": "Trajan", "groups": ["Nerva-Antonines", "Five Good Emperors"], "deathYear": 117, "yearsRuled": 20, "birthplace": "Italica", "ageAscension": 44},
+    {"name": "Hadrian", "groups": ["Nerva-Antonines", "Five Good Emperors"], "deathYear": 138, "yearsRuled": 21, "birthplace": "Italica", "ageAscension": 42},
+    {"name": "Antoninus Pius", "groups": ["Nerva-Antonines", "Five Good Emperors"], "deathYear": 161, "yearsRuled": 23, "birthplace": "Lanuvium", "ageAscension": 51},
+    {"name": "Lucius Verus", "groups": ["Nerva-Antonines"], "deathYear": 169, "yearsRuled": 8, "birthplace": "Rome", "ageAscension": 30},
+    {"name": "Marcus Aurelius", "groups": ["Nerva-Antonines", "Five Good Emperors"], "deathYear": 180, "yearsRuled": 19, "birthplace": "Rome", "ageAscension": 39},
+    {"name": "Commodus", "groups": ["Nerva-Antonines"], "deathYear": 192, "yearsRuled": 11, "birthplace": "Lanuvium", "ageAscension": 18},
+
+    {"name": "Pertinax", "groups": ["Year of the Five Emperors"], "deathYear": 193, "yearsRuled": 0, "birthplace": "Alba Pompeia", "ageAscension": 66},
+    {"name": "Didius Julianus", "groups": ["Year of the Five Emperors"], "deathYear": 193, "yearsRuled": 0, "birthplace": "Mediolanum", "ageAscension": 60},
+    {"name": "Pescennius Niger", "groups": ["Year of the Five Emperors"], "deathYear": 194, "yearsRuled": 1, "birthplace": "Aquincum", "ageAscension": 55},
+    {"name": "Clodius Albinus", "groups": ["Year of the Five Emperors"], "deathYear": 197, "yearsRuled": 1, "birthplace": "Hadrumentum", "ageAscension": 43},
+
+    {"name": "Septimius Severus", "groups": ["Year of the Five Emperors", "Severans"], "deathYear": 211, "yearsRuled": 18, "birthplace": "Leptis Magna", "ageAscension": 47},
+    {"name": "Geta", "groups": ["Severans"], "deathYear": 211, "yearsRuled": 1, "birthplace": "Rome", "ageAscension": 20},
+    {"name": "Caracalla", "groups": ["Severans"], "deathYear": 217, "yearsRuled": 6, "birthplace": "Lugdunum", "ageAscension": 22},
+    {"name": "Macrinus", "groups": ["Severans"], "deathYear": 218, "yearsRuled": 1, "birthplace": "Caesarea", "ageAscension": 52},
+    {"name": "Elagabalus", "groups": ["Severans"], "deathYear": 222, "yearsRuled": 4, "birthplace": "Emesa", "ageAscension": 14},
+    {"name": "Severus Alexander", "groups": ["Severans"], "deathYear": 235, "yearsRuled": 13, "birthplace": "Arca Caesarea", "ageAscension": 13},
+
+    {"name": "Maximinus Thrax", "groups": ["Third Century Anarchy", "Year of the Six Emperors", "rp's favorite"], "deathYear": 238, "yearsRuled": 3, "birthplace": "Thrace", "ageAscension": 62},
+    {"name": "Gordian I", "groups": ["Third Century Anarchy", "Year of the Six Emperors"], "deathYear": 238, "yearsRuled": 0, "birthplace": "Phrygia", "ageAscension": 78},
+    {"name": "Gordian II", "groups": ["Third Century Anarchy", "Year of the Six Emperors"], "deathYear": 238, "yearsRuled": 0, "birthplace": "Unknown", "ageAscension": 46},
+    {"name": "Pupienus", "groups": ["Third Century Anarchy", "Year of the Six Emperors"], "deathYear": 238, "yearsRuled": 0, "birthplace": "Unknown", "ageAscension": 74},
+    {"name": "Balbinus", "groups": ["Third Century Anarchy", "Year of the Six Emperors"], "deathYear": 238, "yearsRuled": 0, "birthplace": "Unknown", "ageAscension": 60},
+    {"name": "Gordian III", "groups": ["Third Century Anarchy", "Year of the Six Emperors"], "deathYear": 244, "yearsRuled": 6, "birthplace": "Rome", "ageAscension": 13},
+
+    {"name": "Philip the Arab", "groups": ["Third Century Anarchy"], "deathYear": 249, "yearsRuled": 6, "birthplace": "Philippopolis", "ageAscension": 40},
+    {"name": "Decius", "groups": ["Third Century Anarchy"], "deathYear": 251, "yearsRuled": 2, "birthplace": "Budalia", "ageAscension": 48},
+    {"name": "Trebonianus Gallus", "groups": ["Third Century Anarchy"], "deathYear": 253, "yearsRuled": 2, "birthplace": "Unknown", "ageAscension": 44},
+    {"name": "Aemilianus", "groups": ["Third Century Anarchy"], "deathYear": 253, "yearsRuled": 0, "birthplace": "Girba", "ageAscension": 46},
+    {"name": "Valerian", "groups": ["Third Century Anarchy"], "deathYear": 260, "yearsRuled": 7, "birthplace": "Unknown", "ageAscension": 60},
+    {"name": "Gallienus", "groups": ["Third Century Anarchy"], "deathYear": 268, "yearsRuled": 15, "birthplace": "Unknown", "ageAscension": 35},
+    {"name": "Claudius Gothicus", "groups": ["Third Century Anarchy"], "deathYear": 270, "yearsRuled": 2, "birthplace": "Unknown", "ageAscension": 54},
+    {"name": "Quintillus", "groups": ["Third Century Anarchy"], "deathYear": 270, "yearsRuled": 0, "birthplace": "Sirmium", "ageAscension": 58},
+    {"name": "Aurelian", "groups": ["Third Century Anarchy"], "deathYear": 275, "yearsRuled": 5, "birthplace": "Sirmium", "ageAscension": 56},
+    {"name": "Tacitus", "groups": ["Third Century Anarchy"], "deathYear": 276, "yearsRuled": 1, "birthplace": "Unknown", "ageAscension": 75},
+    {"name": "Florianus", "groups": ["Third Century Anarchy"], "deathYear": 276, "yearsRuled": 0, "birthplace": "Unknown", "ageAscension": 43},
+    {"name": "Probus", "groups": ["Third Century Anarchy"], "deathYear": 282, "yearsRuled": 6, "birthplace": "Sirmium", "ageAscension": 44},
+    {"name": "Carus", "groups": ["Third Century Anarchy"], "deathYear": 283, "yearsRuled": 1, "birthplace": "Narbo", "ageAscension": 60},
+    {"name": "Numerian", "groups": ["Third Century Anarchy"], "deathYear": 284, "yearsRuled": 1, "birthplace": "Unknown", "ageAscension": 29},
+    {"name": "Carinus", "groups": ["Third Century Anarchy"], "deathYear": 285, "yearsRuled": 2, "birthplace": "Unknown", "ageAscension": 33},
+
+    {"name": "Diocletian", "groups": ["Tetrarchy"], "deathYear": 312, "yearsRuled": 20, "birthplace": "Salona", "ageAscension": 38},
+    {"name": "Maximian", "groups": ["Tetrarchy"], "deathYear": 310, "yearsRuled": 21, "birthplace": "Sirmium", "ageAscension": 36},
+    {"name": "Constantius Chlorus", "groups": ["Tetrarchy"], "deathYear": 306, "yearsRuled": 1, "birthplace": "Unknown", "ageAscension": 55},
+    {"name": "Galerius", "groups": ["Tetrarchy"], "deathYear": 311, "yearsRuled": 6, "birthplace": "Serdica", "ageAscension": 50},
+    {"name": "Severus II", "groups": ["Tetrarchy"], "deathYear": 307, "yearsRuled": 1, "birthplace": "Unknown", "ageAscension": 56},
+    {"name": "Licinius", "groups": ["Tetrarchy"], "deathYear": 325, "yearsRuled": 16, "birthplace": "Unknown", "ageAscension": 58},
+    {"name": "Maximinus Daza", "groups": ["Tetrarchy"], "deathYear": 313, "yearsRuled": 3, "birthplace": "Unknown", "ageAscension": 39},
+    {"name": "Constantine I", "groups": ["Tetrarchy"], "deathYear": 337, "yearsRuled": 31, "birthplace": "Naissus", "ageAscension": 34}
+]

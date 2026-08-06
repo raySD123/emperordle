@@ -82,7 +82,7 @@
     {"name": "Valentinian II", "groups": ["Valentinians"], "deathYear": 392, "yearsRuled": 17, "birthplace": "Augusta Treverorum", "ageAscension": 21},
     {"name": "Gratian", "groups": ["Valentinians"], "deathYear": 383, "yearsRuled": 16, "birthplace": "Sirmium", "ageAscension": 8},
 
-    {"name": "Eugenius", "groups": ["Non-Dynastic"], "deathYear": 394, "yearsRuled": 2, "birthplace": "Unknown", "ageAscension": 0},
+    {"name": "Eugenius", "groups": ["Non-Dynastic"], "deathYear": 394, "yearsRuled": 2, "birthplace": "Unknown", "ageAscension": 42},
 
     {"name": "Magnus Maximus", "groups": ["Theodosians"], "deathYear": 388, "yearsRuled": 5, "birthplace": "Gallaecia", "ageAscension": 0},
     {"name": "Theodosius I", "groups": ["Theodosians"], "deathYear": 395, "yearsRuled": 16, "birthplace": "Cauca", "ageAscension": 32}

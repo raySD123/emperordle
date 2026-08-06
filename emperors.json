@@ -32,7 +32,9 @@
     {"name": "Septimius Severus", "groups": ["Year of the Five Emperors", "Severans"], "deathYear": 211, "yearsRuled": 18, "birthplace": "Leptis Magna", "ageAscension": 47},
     {"name": "Geta", "groups": ["Severans"], "deathYear": 211, "yearsRuled": 1, "birthplace": "Rome", "ageAscension": 20},
     {"name": "Caracalla", "groups": ["Severans"], "deathYear": 217, "yearsRuled": 6, "birthplace": "Lugdunum", "ageAscension": 22},
-    {"name": "Macrinus", "groups": ["Severans"], "deathYear": 218, "yearsRuled": 1, "birthplace": "Caesarea", "ageAscension": 52},
+   
+    {"name": "Macrinus", "groups": ["Non-Dynastic"], "deathYear": 218, "yearsRuled": 1, "birthplace": "Caesarea", "ageAscension": 52},
+   
     {"name": "Elagabalus", "groups": ["Severans"], "deathYear": 222, "yearsRuled": 4, "birthplace": "Emesa", "ageAscension": 14},
     {"name": "Severus Alexander", "groups": ["Severans"], "deathYear": 235, "yearsRuled": 13, "birthplace": "Arca Caesarea", "ageAscension": 13},
 
@@ -49,7 +51,7 @@
     {"name": "Aemilianus", "groups": ["Third Century Anarchy"], "deathYear": 253, "yearsRuled": 0, "birthplace": "Girba", "ageAscension": 46},
     {"name": "Valerian", "groups": ["Third Century Anarchy"], "deathYear": 260, "yearsRuled": 7, "birthplace": "Unknown", "ageAscension": 60},
     {"name": "Gallienus", "groups": ["Third Century Anarchy"], "deathYear": 268, "yearsRuled": 15, "birthplace": "Unknown", "ageAscension": 35},
-    {"name": "Claudius Gothicus", "groups": ["Third Century Anarchy"], "deathYear": 270, "yearsRuled": 2, "birthplace": "Unknown", "ageAscension": 54},
+    {"name": "Claudius Gothicus", "groups": ["Third Century Anarchy", "ac's favorite"], "deathYear": 270, "yearsRuled": 2, "birthplace": "Unknown", "ageAscension": 54},
     {"name": "Quintillus", "groups": ["Third Century Anarchy"], "deathYear": 270, "yearsRuled": 0, "birthplace": "Sirmium", "ageAscension": 58},
     {"name": "Aurelian", "groups": ["Third Century Anarchy"], "deathYear": 275, "yearsRuled": 5, "birthplace": "Sirmium", "ageAscension": 56},
     {"name": "Tacitus", "groups": ["Third Century Anarchy"], "deathYear": 276, "yearsRuled": 1, "birthplace": "Unknown", "ageAscension": 75},
@@ -66,5 +68,22 @@
     {"name": "Severus II", "groups": ["Tetrarchy"], "deathYear": 307, "yearsRuled": 1, "birthplace": "Unknown", "ageAscension": 56},
     {"name": "Licinius", "groups": ["Tetrarchy"], "deathYear": 325, "yearsRuled": 16, "birthplace": "Unknown", "ageAscension": 58},
     {"name": "Maximinus Daza", "groups": ["Tetrarchy"], "deathYear": 313, "yearsRuled": 3, "birthplace": "Unknown", "ageAscension": 39},
-    {"name": "Constantine I", "groups": ["Tetrarchy"], "deathYear": 337, "yearsRuled": 31, "birthplace": "Naissus", "ageAscension": 34}
+    
+    {"name": "Constantine I", "groups": ["Tetrarchy", "Constantinians"], "deathYear": 337, "yearsRuled": 31, "birthplace": "Naissus", "ageAscension": 34},
+    {"name": "Constantine II", "groups": ["Constantinians"], "deathYear": 340, "yearsRuled": 3, "birthplace": "Arelate", "ageAscension": 21},
+    {"name": "Constantius II", "groups": ["Constantinians"], "deathYear": 361, "yearsRuled": 24, "birthplace": "Sirmium", "ageAscension": 20},
+    {"name": "Constans", "groups": ["Constantinians"], "deathYear": 350, "yearsRuled": 13, "birthplace": "Unknown", "ageAscension": 15},
+    {"name": "Julian", "groups": ["Constantinians"], "deathYear": 363, "yearsRuled": 2, "birthplace": "Constantinople", "ageAscension": 30},
+    
+    {"name": "Jovian", "groups": ["Non-Dynastic"], "deathYear": 364, "yearsRuled": 0, "birthplace": "Singidunum", "ageAscension": 32},
+
+    {"name": "Valentinian I", "groups": ["Valentinians"], "deathYear": 375, "yearsRuled": 11, "birthplace": "Cibalae", "ageAscension": 43},
+    {"name": "Valens", "groups": ["Valentinians"], "deathYear": 378, "yearsRuled": 14, "birthplace": "Cibalae", "ageAscension": 36},
+    {"name": "Valentinian II", "groups": ["Valentinians"], "deathYear": 392, "yearsRuled": 17, "birthplace": "Augusta Treverorum", "ageAscension": 21},
+    {"name": "Gratian", "groups": ["Valentinians"], "deathYear": 383, "yearsRuled": 16, "birthplace": "Sirmium", "ageAscension": 8},
+
+    {"name": "Eugenius", "groups": ["Non-Dynastic"], "deathYear": 394, "yearsRuled": 2, "birthplace": "Unknown", "ageAscension": 0},
+
+    {"name": "Magnus Maximus", "groups": ["Theodosians"], "deathYear": 388, "yearsRuled": 5, "birthplace": "Gallaecia", "ageAscension": 0},
+    {"name": "Theodosius I", "groups": ["Theodosians"], "deathYear": 395, "yearsRuled": 16, "birthplace": "Cauca", "ageAscension": 32}
 ]

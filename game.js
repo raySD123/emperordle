@@ -75,7 +75,7 @@ function submitGuess(emperor) {
         }
 
         // value check
-        else if (prop == "deathYear" || prop == "yearsRuled" || prop == "ageAscension") {
+        else if (prop == "deathYear" || prop == "yearsRuled") {
             if (val == answer[prop]) { newCell.textContent = val + " ✅"; }
             else if (val < answer[prop]) { newCell.textContent = val + " ⬆️"; }
             else if (val > answer[prop]) { newCell.textContent = val + " ⬇️"; }

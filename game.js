@@ -75,6 +75,7 @@ function submitGuess(emperor) {
         }
 
         // value check
+        // ok noww the age ascension thingy should actually be removed
         else if (prop == "deathYear" || prop == "yearsRuled") {
             if (val == answer[prop]) { newCell.textContent = val + " ✅"; }
             else if (val < answer[prop]) { newCell.textContent = val + " ⬆️"; }
